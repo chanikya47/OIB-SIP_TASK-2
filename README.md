@@ -1,2 +1,2 @@
 # OIB-SIP-TASK2
-All the files related to task2 of Oasis Infobyte
+All the files related to task2 of Oasis Infobyte internship.
